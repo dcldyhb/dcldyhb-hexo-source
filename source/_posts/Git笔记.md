@@ -1,7 +1,7 @@
 ---
 title: Git笔记
 category:
-  -Web 开发
+  - Web 开发
   - 工具
 tags:
   - Git
