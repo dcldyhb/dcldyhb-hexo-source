@@ -8,3 +8,4 @@ public/
 _multiconfig.yml
 config.py
 __pycache__/
+source/_posts/.conda/
