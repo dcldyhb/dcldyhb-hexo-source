@@ -3,8 +3,6 @@ hide: true
 title: readme
 ---
 
-本科笔记
-
 ## 本科
 
 - 编程
