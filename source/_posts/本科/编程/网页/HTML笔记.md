@@ -1,13 +1,13 @@
 ---
-title: HTML笔记
 category:
-  - Web 开发
-  - 前端基础
+- Web 开发
+- 前端基础
 tags:
-  - HTML
-  - 前端
-  - Web
-  - 笔记
+- HTML
+- 前端
+- Web
+- 笔记
+title: HTML笔记
 ---
 
 ## 元素

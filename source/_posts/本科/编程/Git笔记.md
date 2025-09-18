@@ -1,12 +1,12 @@
 ---
-title: Git笔记
 category:
-  - Web 开发
-  - 工具
+- Web 开发
+- 工具
 tags:
-  - Git
-  - 版本控制
-  - 教程
+- Git
+- 版本控制
+- 教程
+title: Git笔记
 ---
 
 本文参照了 [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600) 和 [CS 自学指南](https://csdiy.wiki/%E5%BF%85%E5%AD%A6%E5%B7%A5%E5%85%B7/Git/) 的内容
