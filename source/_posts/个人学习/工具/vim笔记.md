@@ -10,6 +10,12 @@ tags:
 title: Vim 笔记
 ---
 
+算了没必要学这东西
+
+vim 功能太多了还是键盘鼠标好用
+
+---
+
 In this note, I use neovim as the example.
 
 ## basic commands
